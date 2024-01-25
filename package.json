@@ -1,0 +1,18 @@
+{
+  "name": "scipnet",
+  "version": "1.0.0",
+  "description": "SCiPNET from the SCP Foundation as an app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.2.0"
+  },
+  "dependencies": {
+    "sound-play": "^1.1.0"
+  }
+}
